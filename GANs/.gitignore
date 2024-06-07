@@ -1,0 +1,14 @@
+# MacOS Files
+.DS_Store
+
+# Data Folders
+DCGAN/data/
+Vanilla_GAN/data/
+
+# Python Files
+__pycache__/
+DCGAN/.ipynb_checkpoints/
+Vanilla_GAN/.ipynb_checkpoints/
+
+# VSCode Settings
+.vscode/
