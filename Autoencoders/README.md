@@ -3,9 +3,9 @@
 ## Implementation of AutoEncoders from scratch using PyTorch
 
 We implement 3 types of AutoEncoders on the MNIST handwritten digits dataset:
-- Simple AutoEncoder
-- De-Noising AutoEncoder
-- Variational AutoEncoder
+- [Simple AutoEncoder](./Simple_Autoencoder.ipynb)
+- [De-Noising AutoEncoder](./DeNoising_Autoencoder.ipynb)
+- [Variational AutoEncoder](./Variational_Autoencoder.ipynb)
 
 Implementation of Variational AutoEncoder has been inspired from the original AutoEncoder paper named "[Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114v10)".
 
